@@ -1,0 +1,26 @@
+<annotation>
+	<folder>redketchup</folder>
+	<filename>0 (48).jpg</filename>
+	<path>C:\Users\abc\Desktop\redketchup\0 (48).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>267</ymin>
+			<xmax>334</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>
